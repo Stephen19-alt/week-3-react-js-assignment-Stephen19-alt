@@ -104,7 +104,7 @@ src/
 └── main.jsx
 📸 Screenshots
 You can include screenshots here after UI is built and styled.
-
+[Sample Screenshot](https://github.com/Stephen19-alt/week-3-react-js-assignment-Stephen19-alt/blob/master/Screenshot%202025-07-10%20054200.png)
 📝 License
 This project is licensed under the MIT License.
 
